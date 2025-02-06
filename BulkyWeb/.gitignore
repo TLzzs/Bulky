@@ -112,3 +112,5 @@ logs/
 *.log
 *.swp
 *.swo
+
+/BulkyWeb/obj
