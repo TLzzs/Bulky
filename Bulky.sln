@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyWeb", "BulkyWeb\BulkyWeb.csproj", "{497F65D7-6529-47BA-B116-1CD20A2124A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497F65D7-6529-47BA-B116-1CD20A2124A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497F65D7-6529-47BA-B116-1CD20A2124A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497F65D7-6529-47BA-B116-1CD20A2124A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497F65D7-6529-47BA-B116-1CD20A2124A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
