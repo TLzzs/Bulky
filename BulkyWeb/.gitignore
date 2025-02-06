@@ -73,3 +73,42 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+# Build files
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider / VS Code
+.idea/
+.vscode/
+
+# ASP.NET Core Configuration
+appsettings.Development.json
+appsettings.local.json
+secrets.json
+
+# Entity Framework Migrations (keep migrations but ignore cache files)
+Migrations/*.designer.cs
+Migrations/*.resx
+
+# Node & Frontend (if using React or Vue)
+node_modules/
+dist/
+
+# NuGet Packages
+project.nuget.cache
+*.nuget.props
+*.nuget.targets
+
+# Docker Ignore
+docker-compose.override.yml
+docker-compose.debug.yml
+
+# Logs & Temp Files
+logs/
+*.log
+*.swp
+*.swo
